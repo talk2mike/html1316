@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Испытание: зловещие тени</title>
+		<link rel="stylesheet" href="button06.css"> 
+    </head>
+    <body>
+        <div class="btn">Поехали!</div>
+        <div class="help"></div>
+    </body>
+</html> 
